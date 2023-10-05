@@ -27,7 +27,6 @@ nav {
   align-items: center;
   color: #fff;
   text-transform: uppercase;
-  /* background: rgba(11, 5, 29, 0.966); */
 }
 .nav-items {
   height: 100%;
@@ -77,7 +76,7 @@ nav {
     right: -100%;
     z-index: 99;
     transition: 0.2s ease-in;
-    background: #d0a4a4;
+    background: transparent;
     border-radius: 10px;
   }
   .nav-items li {
