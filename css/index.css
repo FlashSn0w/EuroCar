@@ -76,7 +76,7 @@ nav {
     right: -100%;
     z-index: 99;
     transition: 0.2s ease-in;
-    background: transparent;
+    background: #545252;
     border-radius: 10px;
   }
   .nav-items li {
