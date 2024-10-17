@@ -10,6 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  top: 70px;
 }
 a {
   text-decoration: none;
